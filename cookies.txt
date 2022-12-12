@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.agri-tech.co.uk	TRUE	/	FALSE	1999999999	CraftSessionId	8efea10597fc0a569989ee01bff58328
+.agri-tech.co.uk	TRUE	/	FALSE	1999999999	CRAFT_CSRF_TOKEN	5774fc6b78c794f2dec332cfdbf3706caf5d9763s%3A40%3A%22f%7EWymvKyhUlwQB2s6NVtAqgHhN_4Y7J%7EjodD4cDJ%22%3B
+
